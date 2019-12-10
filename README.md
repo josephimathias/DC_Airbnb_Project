@@ -1,3 +1,4 @@
+![alt text](https://github.com/josephimathias/DC_Airbnb_Project/blob/master/images/header.png)
 # Airbnbs - Predicting Pricing in Washington, DC
 ## Aneesh Kodali and Joey Mathias
 
