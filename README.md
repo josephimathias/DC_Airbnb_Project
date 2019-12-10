@@ -1,7 +1,10 @@
 # Airbnbs - Predicting Pricing in Washington, DC
 Aneesh Kodali and Joey Mathias
 
-This project involves conducting a regression analysis to predict Airbnb pricing in Washington, DC. Please see the slides that accompany this project [here](https://github.com/josephimathias/DC_Airbnb_Project/blob/master/slides.pdf)
+This project involves conducting a regression analysis to predict Airbnb pricing in Washington, DC. Please see the slides that accompany this project [here](https://github.com/josephimathias/DC_Airbnb_Project/blob/master/slides.pdf).
+
+As a sneak peek, here are some of the most important features and how they impact expected price:
+![alt text](https://github.com/josephimathias/DC_Airbnb_Project/blob/master/images/feature_importance.png)
 
 ### Files in Repository:
 * This README.md - Joey
