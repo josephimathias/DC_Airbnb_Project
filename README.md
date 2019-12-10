@@ -13,4 +13,4 @@ As a sneak peek, here are some of the most important features and how they impac
 * model.py - This file contains functions that perform our regression analysis - Aneesh
 * scrub_and_explore.py - This file contains functions to collect and clean our data - Aneesh
 * slides.pdf - This file contains the project slides - Joey and Aneesh
-* data - This folder contains the data that we collected as well as cleaned versions of the data - [InsideAirbnb](https://http://insideairbnb.com/get-the-data.html)
+* data - This folder contains the data that we collected as well as cleaned versions of the data - [InsideAirbnb](http://http://insideairbnb.com/get-the-data.html)
