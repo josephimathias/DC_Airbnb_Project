@@ -7,7 +7,7 @@ As a sneak peek, here are some of the most important features and how they impac
 ![alt text](https://github.com/josephimathias/DC_Airbnb_Project/blob/master/images/feature_importance.png)
 
 ### Files in Repository:
-* This README.md - Joey
+* README.md - Joey
 * Technical_Notebook.ipnby - This file contains a walkthrough of our process as well as the majority of our code
 * visualization.py - This file contains functions to generate visualizations of our data - Joey
 * model.py - This file contains functions that perform our regression analysis - Aneesh
